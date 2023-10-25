@@ -1,4 +1,5 @@
 # PICR-Net_ACMMM2023
+Mindspore implementation version of PICR-Net
 
 Runmin Cong, Hongyu Liu, Chen Zhang*, Wei Zhang, Feng Zheng, Ran Song, and Sam Kwong, Point-aware Interaction and CNN-induced Refinement Network for RGB-D salient object detection, ACM International Conference on Multimedia (ACM MM), 2023.
 ## Network
